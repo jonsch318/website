@@ -1,19 +1,9 @@
-/// <reference types="@sveltejs/kit" />
-
-import type { Locales } from "$i18n/i18n-types";
-
-// See https://kit.svelte.dev/docs/typescript
+// See https://kit.svelte.dev/docs/types#app
 // for information about these interfaces
+// and what to do when importing types
 declare namespace App {
-	interface Locals {
-		userid: string;
-	}
-
-	interface Platform {}
-
-	interface Session {
-		locale: Locales;
-	}
-
-	interface Stuff {}
+	// interface Locals {}
+	// interface PageData {}
+	// interface Error {}
+	// interface Platform {}
 }

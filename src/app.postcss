@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@tailwind variants;
+
+:root [data-theme='skeleton'] {
+    --theme-font-family-base: "poppins", "system-ui", "Aral", "sans-serif"
+    --theme-font-family-sans: "poppins", "system-ui", "Aral", "sans-serif"
+}
+
+html, body { @apply h-full overflow-hidden; }
+
+
+a:not(nohighlight):hover {
+    @apply text-blue-600
+}
