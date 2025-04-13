@@ -1,0 +1,8 @@
+---
+title: About Me
+---
+# Hi
+
+I am Jonas Schneider a computer science student at [RWTH-Aachen](https://rwth-aachen.de). I generally interested in everything with software & hardware. In my studies I focused & will focus more on computer networking, protocol design, operating systems and high-performance computing.
+
+

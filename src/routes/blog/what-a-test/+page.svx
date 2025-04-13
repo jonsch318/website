@@ -1,0 +1,8 @@
+---
+title: Test
+date: 2025-04-12
+published: true
+layout: blog
+---
+
+Wow this works with rss

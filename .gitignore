@@ -1,0 +1,19 @@
+# build
+dist
+build
+
+# process data
+.pid
+pids
+.pid-lock
+
+# Coverage & Test
+coverage
+.nyc_output
+
+# Dependency folder
+node_modules
+bower_components
+jspm_packages
+
+.svelte-kit
